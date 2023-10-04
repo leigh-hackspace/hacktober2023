@@ -1,48 +1,51 @@
-# hacktober2023
+# Hacktober2023
 
 # Git Instructions
 
-## Fork a Repository:
+### Fork a Repository:
 
 Start by forking a repository on GitHub that you're interested in contributing to. This creates a copy of the repository under your GitHub account.
 
-## Clone the Repository
+### Clone the Repository
 
 Use the git clone command to create a local copy of your forked repository on your computer. This is where you'll make your changes.
 
-## Create a Branch
+### Create a Branch
 
 Create a new Git branch using git checkout -b branch-name. It's a good practice to name your branch something descriptive like "hacktoberfest-2023" to keep your contributions organized.
 
-## Make Changes
+### Make Changes
 
  Make your desired changes to the code or documentation in your local branch.
 
-## Commit Changes
+### Commit Changes
 
 Use git add . to stage your changes and git commit -m "Your commit message" to commit them to your local branch.
 
-## Push Changes
+### Push Changes
 
 Push your local branch with changes to your GitHub fork using git push origin branch-name.
 
-# Create a Pull Request (PR)
+### Create a Pull Request (PR)
 
 Go to the original repository you forked from, and GitHub will suggest creating a pull request based on your recent push. Add a description of your changes and submit the PR.
 
-## Review and Collaborate
+### Review and Collaborate
 
 Collaborate with the project maintainers if they request changes or feedback on your PR. Make any necessary updates to your branch, commit, and push again.
 
-## Merge Your PR
+### Merge Your PR
 
 Once your PR is approved by the project maintainers, they will merge it into the main repository.
 
-## Repeat
+### Repeat
 
 You can repeat these steps for multiple contributions to reach the Hacktoberfest goal of four pull requests.
 
 ** Remember to follow the contribution guidelines of the specific project you're working on and ensure your contributions are meaningful and relevant to the project's needs. Happy hacking! **
+
+More info can be found at https://hacktoberfest.com/
+---
 
 
 
